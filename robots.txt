@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eibuequohz.datapadawan.com/sitemap.xml
